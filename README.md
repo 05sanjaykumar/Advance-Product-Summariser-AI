@@ -3,7 +3,6 @@
 
 # 🛒 AI-Powered Price Tracker
 
-
 A full-stack AI-enhanced product tracker that scrapes real-time listings, summarizes them using LLMs (via Groq), and displays results through a clean React frontend.
 
 Built by a solo developer. Powered by real engineering, DevOps, and AI integrations.
@@ -33,6 +32,15 @@ Built by a solo developer. Powered by real engineering, DevOps, and AI integrati
 | **Scraping**   | Bing Search API, Puppeteer (Node.js)|
 | **Database**   | MongoDB                             |
 | **DevOps**     | Docker, Docker Compose              |
+
+---
+
+
+## Demo video 🎥
+
+
+https://github.com/user-attachments/assets/24d5ddb6-f265-4400-870d-cd512b7a8c41
+
 
 ---
 
