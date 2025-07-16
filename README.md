@@ -1,15 +1,12 @@
-# 🛒 AI-Powered Price Tracker
-
-
 > [!NOTE]  
 > This is to Showcase Demo of the Product for buying and my Skillset
+
+# 🛒 AI-Powered Price Tracker
+
 
 A full-stack AI-enhanced product tracker that scrapes real-time listings, summarizes them using LLMs (via Groq), and displays results through a clean React frontend.
 
 Built by a solo developer. Powered by real engineering, DevOps, and AI integrations.
-
-
-
 
 ---
 
